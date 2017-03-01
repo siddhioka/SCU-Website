@@ -1,0 +1,2 @@
+# SCU-Website
+Sample website
